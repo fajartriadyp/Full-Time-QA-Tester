@@ -1,0 +1,5 @@
+{"testCaseName":"Test Cases/FB_Login_Negative_Empty Email","testCaseId":"Test Cases/FB_Login_Negative_Empty Email","iterationVariableName":""}
+{"testCaseName":"Test Cases/FB_Login_Negative_Empy field","testCaseId":"Test Cases/FB_Login_Negative_Empy field","iterationVariableName":""}
+{"testCaseName":"Test Cases/FB_Login_Negative_Wrong Email","testCaseId":"Test Cases/FB_Login_Negative_Wrong Email","iterationVariableName":""}
+{"testCaseName":"Test Cases/FB_Login_Negative_Wrong Password","testCaseId":"Test Cases/FB_Login_Negative_Wrong Password","iterationVariableName":""}
+{"testCaseName":"Test Cases/FB_Login_Positive","testCaseId":"Test Cases/FB_Login_Positive","iterationVariableName":""}

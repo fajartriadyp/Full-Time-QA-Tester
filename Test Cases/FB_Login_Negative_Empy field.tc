@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FB_Login_Negative_Empy field</name>
+   <tag>negative</tag>
+   <comment></comment>
+   <testCaseGuid>ddb8d00c-54e5-4b0f-8504-cd62fb6c00e0</testCaseGuid>
+</TestCaseEntity>

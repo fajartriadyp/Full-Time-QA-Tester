@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add a mobile number</name>
+   <tag></tag>
+   <elementGuidId>c687ab87-889e-40ce-961c-c4b2c87ad2d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.d2edcug0.hpfvmrgz.qv66sw1b.c1et5uql.lr9zc1uh.a8c37x1j.fe6kdd0r.mau55g9w.c8b282yb.keod5gw0.nxhoafnm.aigsh9s9.qg6bub1s.iv3no6db.o0t2es00.f530mmz5.hnhda86s.oo9gr5id.hzawbc8m</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollview']/div/div/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5fe1bad5-2af6-43b8-9b65-c32670c9b7af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d2edcug0 hpfvmrgz qv66sw1b c1et5uql lr9zc1uh a8c37x1j fe6kdd0r mau55g9w c8b282yb keod5gw0 nxhoafnm aigsh9s9 qg6bub1s iv3no6db o0t2es00 f530mmz5 hnhda86s oo9gr5id hzawbc8m</value>
+      <webElementGuid>2f097eaf-5dec-4c7c-afd3-52caeda53aa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>255ccb91-d05f-44fe-9e33-2215cfb9a669</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add a mobile number</value>
+      <webElementGuid>12dfc953-ccfa-4922-9da5-147f9d504f90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollview&quot;)/div[@class=&quot;du4w35lb l9j0dhe7 cbu4d94t j83agx80&quot;]/div[@class=&quot;j83agx80 cbu4d94t l9j0dhe7&quot;]/div[@class=&quot;j83agx80 cbu4d94t l9j0dhe7 jgljxmt5 be9z9djy&quot;]/div[@class=&quot;rq0escxv l9j0dhe7 du4w35lb&quot;]/div[@class=&quot;du4w35lb l9j0dhe7 cbu4d94t j83agx80&quot;]/div[@class=&quot;j83agx80 cbu4d94t l9j0dhe7&quot;]/div[@class=&quot;j83agx80 cbu4d94t l9j0dhe7 jgljxmt5 be9z9djy&quot;]/div[@class=&quot;dp1hu0rb d2edcug0 taijpn5t j83agx80 gs1a9yip&quot;]/div[@class=&quot;k4urcfbm dp1hu0rb d2edcug0 cbu4d94t j83agx80 bp9cbjyn&quot;]/div[@class=&quot;bp9cbjyn j83agx80 cbu4d94t l9j0dhe7 k4urcfbm du4w35lb nfe0pr5l&quot;]/div[@class=&quot;k4urcfbm ji3y4fs9&quot;]/div[@class=&quot;j83agx80 l9j0dhe7 k4urcfbm&quot;]/div[@class=&quot;rq0escxv l9j0dhe7 du4w35lb hybvsw6c io0zqebd m5lcvass fbipl8qg nwvqtn77 k4urcfbm ni8dbmo4 stjgntxs sbcfpzgs&quot;]/div[@class=&quot;tojvnm2t a6sixzi8 k5wvi7nf q3lfd5jv pk4s997a bipmatt0 cebpdrjk qowsmv63 owwhemhu dp1hu0rb dhp61c6y l9j0dhe7 iyyx5f41 a8s20v7p&quot;]/div[1]/div[1]/div[@class=&quot;l9j0dhe7 du4w35lb rq0escxv j83agx80 cbu4d94t pfnyh3mw d2edcug0 aodizinl ofv0k9yr&quot;]/div[@class=&quot;rq0escxv l9j0dhe7 du4w35lb j83agx80 cbu4d94t buofh1pr tgvbjcpo&quot;]/div[@class=&quot;rq0escxv l9j0dhe7 du4w35lb j83agx80 cbu4d94t pfnyh3mw d2edcug0 gl4o1x5y lt9micmv aov4n071 bi6gxh9e gbw9n0fl fneq0qzw&quot;]/div[@class=&quot;sv5sfqaa obtkqiv7 cbu4d94t j83agx80&quot;]/div[@class=&quot;aov4n071 bi6gxh9e&quot;]/span[@class=&quot;d2edcug0 hpfvmrgz qv66sw1b c1et5uql lr9zc1uh a8c37x1j fe6kdd0r mau55g9w c8b282yb keod5gw0 nxhoafnm aigsh9s9 qg6bub1s iv3no6db o0t2es00 f530mmz5 hnhda86s oo9gr5id hzawbc8m&quot;]</value>
+      <webElementGuid>c4fa8487-dde1-479c-9687-59d84ea958bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollview']/div/div/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/span</value>
+      <webElementGuid>ccfbf329-718e-4c89-9b11-0b19e0ea1883</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Decter Lyfe'])[1]/following::span[1]</value>
+      <webElementGuid>f2ede359-f339-4318-8e3d-7dbb4e249aa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('We', &quot;'&quot;, 'll send you a text with a code to confirm that the number belongs to you.')])[1]/preceding::span[1]</value>
+      <webElementGuid>8c6e376c-5579-45f0-80c4-7449a224f43b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country code'])[1]/preceding::span[2]</value>
+      <webElementGuid>d58154a7-e870-4fd3-847d-b11126e832dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add a mobile number']/parent::*</value>
+      <webElementGuid>e412aa0b-fb8f-46b7-8363-f0a8d08d1e45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/span</value>
+      <webElementGuid>2d47f90c-9691-40d8-a922-e50ca64c459b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Add a mobile number' or . = 'Add a mobile number')]</value>
+      <webElementGuid>ee51dff3-6312-4d57-9ffa-c2d3edf644a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

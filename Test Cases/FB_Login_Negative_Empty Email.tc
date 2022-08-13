@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FB_Login_Negative_Empty Email</name>
+   <tag>negative</tag>
+   <comment></comment>
+   <testCaseGuid>5ee6a040-4fd3-4505-b0a7-10a3ade02714</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,48 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Login Test Suite,Chrome 104.0.5112.81,,,2022-08-13 17:45:38,2022-08-13 17:46:51,1m - 12.759s,PASSED
+,,,,,,,
+Test Cases/FB_Login_Negative_Empty Email,Chrome 104.0.5112.81,,negative,2022-08-13 17:45:39,2022-08-13 17:45:51,11.907s,PASSED
+"openBrowser("""")",Chrome 104.0.5112.81,,,2022-08-13 17:45:40,2022-08-13 17:45:45,4.711s,PASSED
+"navigateToUrl(""https://www.facebook.com/login"")",Chrome 104.0.5112.81,,,2022-08-13 17:45:45,2022-08-13 17:45:47,1.848s,PASSED
+"setEncryptedText(findTestObject(""Page_Login/input_pass""), ""ksG/Enp05hmRQde8kjwFBQ=="")",Chrome 104.0.5112.81,,,2022-08-13 17:45:47,2022-08-13 17:45:47,0.851s,PASSED
+"click(findTestObject(""Page_Login/Btn_login""))",Chrome 104.0.5112.81,,,2022-08-13 17:45:47,2022-08-13 17:45:48,0.588s,PASSED
+"click(findTestObject(""Page_Login/div_Wrong credentialsInvalid username or password""))",Chrome 104.0.5112.81,,,2022-08-13 17:45:48,2022-08-13 17:45:50,1.828s,PASSED
+closeBrowser(STOP_ON_FAILURE),Chrome 104.0.5112.81,,,2022-08-13 17:45:50,2022-08-13 17:45:51,0.898s,PASSED
+,,,,,,,
+Test Cases/FB_Login_Negative_Empy field,Chrome 104.0.5112.81,,negative,2022-08-13 17:45:51,2022-08-13 17:46:03,12.662s,PASSED
+"openBrowser("""")",Chrome 104.0.5112.81,,,2022-08-13 17:45:52,2022-08-13 17:45:54,1.931s,PASSED
+"navigateToUrl(""https://www.facebook.com/login"")",Chrome 104.0.5112.81,,,2022-08-13 17:45:54,2022-08-13 17:45:55,1.560s,PASSED
+"click(findTestObject(""Page_Login/Btn_login""))",Chrome 104.0.5112.81,,,2022-08-13 17:45:55,2022-08-13 17:45:56,0.553s,PASSED
+"verifyElementPresent(findTestObject(""Page_Login/div_Wrong credentialsInvalid username or password""), 0)",Chrome 104.0.5112.81,,,2022-08-13 17:45:56,2022-08-13 17:45:57,1.697s,PASSED
+delay(5),Chrome 104.0.5112.81,,,2022-08-13 17:45:57,2022-08-13 17:46:02,5.062s,PASSED
+closeBrowser(STOP_ON_FAILURE),Chrome 104.0.5112.81,,,2022-08-13 17:46:02,2022-08-13 17:46:03,0.930s,PASSED
+,,,,,,,
+Test Cases/FB_Login_Negative_Wrong Email,Chrome 104.0.5112.81,,negative,2022-08-13 17:46:03,2022-08-13 17:46:21,17.199s,PASSED
+"openBrowser("""")",Chrome 104.0.5112.81,,,2022-08-13 17:46:04,2022-08-13 17:46:07,2.460s,PASSED
+"navigateToUrl(""https://www.facebook.com/login"")",Chrome 104.0.5112.81,,,2022-08-13 17:46:07,2022-08-13 17:46:08,1.637s,PASSED
+"setText(findTestObject(""Page_Login/input_email""), ""testing@koprat.com"")",Chrome 104.0.5112.81,,,2022-08-13 17:46:08,2022-08-13 17:46:10,1.164s,PASSED
+"setEncryptedText(findTestObject(""Page_Login/input_pass""), ""/viLRLBY6MJSjGBLxCxJlQ=="")",Chrome 104.0.5112.81,,,2022-08-13 17:46:10,2022-08-13 17:46:10,0.599s,PASSED
+"click(findTestObject(""Page_Login/Btn_login""))",Chrome 104.0.5112.81,,,2022-08-13 17:46:10,2022-08-13 17:46:11,0.483s,PASSED
+"click(findTestObject(""Page_Login/div_Wrong credentialsInvalid username or password""))",Chrome 104.0.5112.81,,,2022-08-13 17:46:11,2022-08-13 17:46:17,5.949s,PASSED
+delay(3),Chrome 104.0.5112.81,,,2022-08-13 17:46:17,2022-08-13 17:46:20,3.018s,PASSED
+closeBrowser(STOP_ON_FAILURE),Chrome 104.0.5112.81,,,2022-08-13 17:46:20,2022-08-13 17:46:21,0.972s,PASSED
+,,,,,,,
+Test Cases/FB_Login_Negative_Wrong Password,Chrome 104.0.5112.81,,Negative,2022-08-13 17:46:21,2022-08-13 17:46:35,13.912s,PASSED
+"openBrowser("""")",Chrome 104.0.5112.81,,,2022-08-13 17:46:21,2022-08-13 17:46:24,2.510s,PASSED
+"navigateToUrl(""https://www.facebook.com/login"")",Chrome 104.0.5112.81,,,2022-08-13 17:46:24,2022-08-13 17:46:26,1.606s,PASSED
+"setText(findTestObject(""Page_Login/input_email""), ""lyfe.decker@fillnoo.com"")",Chrome 104.0.5112.81,,,2022-08-13 17:46:26,2022-08-13 17:46:27,1.104s,PASSED
+"setEncryptedText(findTestObject(""Page_Login/input_pass""), ""D8fAyou13NqievS5dY7x64YN4yKs0FogOXmBfRTPITc="")",Chrome 104.0.5112.81,,,2022-08-13 17:46:27,2022-08-13 17:46:27,0.651s,PASSED
+"click(findTestObject(""Page_Login/Btn_login""))",Chrome 104.0.5112.81,,,2022-08-13 17:46:27,2022-08-13 17:46:28,0.488s,PASSED
+"click(findTestObject(""Page_Login/div_Wrong credentialsInvalid username or password""))",Chrome 104.0.5112.81,,,2022-08-13 17:46:28,2022-08-13 17:46:31,2.817s,PASSED
+delay(3),Chrome 104.0.5112.81,,,2022-08-13 17:46:31,2022-08-13 17:46:34,3.018s,PASSED
+closeBrowser(STOP_ON_FAILURE),Chrome 104.0.5112.81,,,2022-08-13 17:46:34,2022-08-13 17:46:35,0.866s,PASSED
+,,,,,,,
+Test Cases/FB_Login_Positive,Chrome 104.0.5112.81,,,2022-08-13 17:46:35,2022-08-13 17:46:51,16.236s,PASSED
+"openBrowser("""")",Chrome 104.0.5112.81,,,2022-08-13 17:46:36,2022-08-13 17:46:38,2.452s,PASSED
+"navigateToUrl(""https://www.facebook.com/login"")",Chrome 104.0.5112.81,,,2022-08-13 17:46:38,2022-08-13 17:46:40,1.623s,PASSED
+"setText(findTestObject(""Page_Login/input_email""), ""lyfe.decker@fillnoo.com"")",Chrome 104.0.5112.81,,,2022-08-13 17:46:40,2022-08-13 17:46:41,1.080s,PASSED
+"setEncryptedText(findTestObject(""Page_Login/input_pass""), ""lkeQigiJ99F8Wx4U7Su1/g=="")",Chrome 104.0.5112.81,,,2022-08-13 17:46:41,2022-08-13 17:46:41,0.597s,PASSED
+"click(findTestObject(""Page_Login/Btn_login""))",Chrome 104.0.5112.81,,,2022-08-13 17:46:41,2022-08-13 17:46:42,0.511s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Login/span_Add a mobile number""), 0)",Chrome 104.0.5112.81,,,2022-08-13 17:46:42,2022-08-13 17:46:46,4.043s,PASSED
+delay(4),Chrome 104.0.5112.81,,,2022-08-13 17:46:46,2022-08-13 17:46:50,4.013s,PASSED
+closeBrowser(STOP_ON_FAILURE),Chrome 104.0.5112.81,,,2022-08-13 17:46:50,2022-08-13 17:46:51,0.948s,PASSED
